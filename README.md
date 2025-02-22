@@ -5,7 +5,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/arif-900/Arif/blob/main/linkedin_cover_photo_2.png" alt="Profile Banner">
+  <img src="https://i.ibb.co/pr3FKsKf/A-R-I-F.png" " alt="Profile Banner">
 </p>
 
 <!-- About Me Section with GIF in one container -->
